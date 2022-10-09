@@ -1,1 +1,1 @@
-file:///C:/Users/Bharat%20Swami/OneDrive/Desktop/Programming/webD/Zomato/index.html
+https://bharat1718swami.github.io/Zomato-clone/
